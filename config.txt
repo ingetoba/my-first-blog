@@ -1,0 +1,37 @@
+DJANGO
+
+https://tutorial.djangogirls.org/es/css/
+http://ingetoba.pythonanywhere.com/admin/login/?next=/admin/blog/post/
+http://django-marcador.keimlink.de/es/start_django_project.html
+
+1- Para iniciar el servidor Web en la consola: 
+python manage.py runserver
+
+prompt
+- activar el entorno
+ruta donde tengo mi ambiente virtual
+C:\djangogirls\myvenv\Scripts>
+
+y despues ejecutar el comando
+activate
+
+debe aparecer (myvenv) C:\djangogirls\myvenv\Scripts>
+
+Ahora debemos estar en la carpeta donde se encuentra el archivo manage.pyy ejecutar
+
+(myvenv) C:\djangogirls>python manage.py runserver
+
+http://127.0.0.1:8000/
+
+2- Desplegar en Git
+$ git status
+$ git add --all .
+$ git status
+$ git commit -m "Added views to create/edit blog post inside the site."
+$ git push
+
+2- Trabajando con CSS
+https://www.codecademy.com/tracks/web
+https://www.w3schools.com/cssref/css_selectors.asp
+https://fonts.google.com/
+
